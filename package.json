@@ -47,7 +47,7 @@
     "@commitlint/cli": "^8.1.0",
     "@commitlint/config-conventional": "^8.1.0",
     "@semantic-release/changelog": "^3.0.4",
-    "@unional/devpkg-node": "^1.4.0",
+    "@unional/devpkg-node": "^1.5.0",
     "assertron": "^7.1.2",
     "codecov": "^3.5.0",
     "commitlint-circle": "^1.0.0",
